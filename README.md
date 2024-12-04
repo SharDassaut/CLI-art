@@ -26,7 +26,7 @@ Compiling the Program
 
 To compile the program, use the following command:
 
-    gcc -o starfield star.c -lncurses
+    gcc -o starfield stars.c -lncurses
 
 
 If you're using another compiler (e.g., Clang), ensure you include the -lncurses flag as well.
